@@ -1,0 +1,36 @@
+.rodape{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: darkblue;
+    
+}
+
+.rodape > nav{
+    display: flex;
+
+
+}
+
+.rodape h2 {
+    background-color: darkblue;
+
+}
+
+.rodape > nav img{
+    display: block;
+    max-width: 25%;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.rodape > nav img:hover{
+    background-color:white;
+
+}
+
+.rodape > nav a{
+    padding: 5% 0;
+    width: 100%;
+}

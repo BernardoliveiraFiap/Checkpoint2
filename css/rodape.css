@@ -4,6 +4,7 @@
     justify-content: center;
     align-items: center;
     background-color: darkblue;
+    border-top: 0.5rem solid rgb(0, 0, 90) ;
     
 }
 
@@ -32,5 +33,5 @@
 
 .rodape > nav a{
     padding: 5% 0;
-    width: 100%;
+    max-width: 100%;
 }

@@ -4,6 +4,7 @@
     align-items: center;
     flex-wrap: wrap;
     background-color: darkblue;
+    border-bottom: 0.5rem solid rgb(0, 0, 90) ;
 }
 
 .cabecalho nav{

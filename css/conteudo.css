@@ -28,7 +28,7 @@
 }
 
 .conteudo > div p{
-    font-size: 2em;
+    font-size: 1.8em;
     background-color: darkblue;
 }
 
@@ -46,7 +46,7 @@
 }
 
 .conteudo > article h2{
-    font-size: 2em;
+    font-size: 2.5em;
     text-align: center;
     background-color: darkblue;
 }

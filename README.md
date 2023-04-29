@@ -1,22 +1,22 @@
-LISTA DE INTEGRANTES DO GRUPO:
+# LISTA DE INTEGRANTES DO GRUPO:
 
-551356 - Enzo Oliveira
-551416 - Macirander Souza de Miranda Filho
-98672 - Mirelly Ribeiro Azevedo
-551401 - Ana Luiza Fontes Franco
-551856 - Beatriz Fon Ehnert de Santi
-550247 - Alexandre Martelanc
+1. 551356 - Enzo Oliveira
+2. 551416 - Macirander Souza de Miranda Filho
+3. 98672 - Mirelly Ribeiro Azevedo
+4. 551401 - Ana Luiza Fontes Franco
+5. 551856 - Beatriz Fon Ehnert de Santi
+6. 550247 - Alexandre Martelanc
 
 
 
-URL DE URL:
+URL DE REPOSITÓRIO:
 https://github.com/BernardoliveiraFiap/Checkpoint2.git
 
 URL DA PÁGINA NO GITPAGES:
 https://bernardoliveirafiap.github.io/Checkpoint2/
 
 
-PÁGINAS (PRINTS NO RESULTADO.DOCX E PASTA img)
+PRINTS NO RESULTADO.DOCX E PASTA ./img
 
 # Páginas HTML: 
 
